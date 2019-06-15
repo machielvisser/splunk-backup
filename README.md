@@ -14,6 +14,7 @@ In either case it is complicated and/or still leaves the data in the hot bucket 
 The output is in compressed csv.gz format.
 
 ## Setup
+Download the app from the Splunkbase.
 Go to "Manage Apps -> Install app from file" and upload the file. It is directly ready for use.
 
 ## Usage
